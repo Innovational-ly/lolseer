@@ -1,0 +1,387 @@
+{
+	"activePlayer": {
+		"abilities": {
+			"E": {
+				"abilityLevel": 2,
+				"displayName": "Gatling Gun",
+				"id": "GGun",
+				"rawDescription": "GeneratedTip_Spell_GGun_Description",
+				"rawDisplayName": "GeneratedTip_Spell_GGun_DisplayName"
+			},
+			"Passive": {
+				"displayName": "Hextech Munitions",
+				"id": "RapidReload",
+				"rawDescription": "GeneratedTip_Passive_RapidReload_Description",
+				"rawDisplayName": "GeneratedTip_Passive_RapidReload_DisplayName"
+			},
+			"Q": {
+				"abilityLevel": 3,
+				"displayName": "Phosphorus Bomb",
+				"id": "PhosphorusBomb",
+				"rawDescription": "GeneratedTip_Spell_PhosphorusBomb_Description",
+				"rawDisplayName": "GeneratedTip_Spell_PhosphorusBomb_DisplayName"
+			},
+			"R": {
+				"abilityLevel": 1,
+				"displayName": "Missile Barrage",
+				"id": "MissileBarrage",
+				"rawDescription": "GeneratedTip_Spell_MissileBarrage_Description",
+				"rawDisplayName": "GeneratedTip_Spell_MissileBarrage_DisplayName"
+			},
+			"W": {
+				"abilityLevel": 2,
+				"displayName": "Valkyrie",
+				"id": "CarpetBomb",
+				"rawDescription": "GeneratedTip_Spell_CarpetBomb_Description",
+				"rawDisplayName": "GeneratedTip_Spell_CarpetBomb_DisplayName"
+			}
+		},
+		"championStats": {
+			"abilityHaste": 10.0,
+			"abilityPower": 0.0,
+			"armor": 61.14250183105469,
+			"armorPenetrationFlat": 0.0,
+			"armorPenetrationPercent": 1.0,
+			"attackDamage": 111.7699966430664,
+			"attackRange": 550.0,
+			"attackSpeed": 0.7227423787117004,
+			"bonusArmorPenetrationPercent": 1.0,
+			"bonusMagicPenetrationPercent": 1.0,
+			"critChance": 0.15000000596046449,
+			"critDamage": 175.0,
+			"currentHealth": 1194.375,
+			"healShieldPower": 0.0,
+			"healthRegenRate": 1.7352499961853028,
+			"lifeSteal": 0.0,
+			"magicLethality": 0.0,
+			"magicPenetrationFlat": 0.0,
+			"magicPenetrationPercent": 1.0,
+			"magicResist": 37.50749969482422,
+			"maxHealth": 1194.375,
+			"moveSpeed": 325.0,
+			"omnivamp": 0.0,
+			"physicalLethality": 0.0,
+			"physicalVamp": 0.0,
+			"resourceMax": 661.8499755859375,
+			"resourceRegenRate": 2.1152501106262209,
+			"resourceType": "MANA",
+			"resourceValue": 661.8499755859375,
+			"spellVamp": 0.0,
+			"tenacity": 5.0
+		},
+		"currentGold": 1008.6737060546875,
+		"fullRunes": {
+			"generalRunes": [
+				{
+					"displayName": "First Strike",
+					"id": 8369,
+					"rawDescription": "perk_tooltip_FirstStrike",
+					"rawDisplayName": "perk_displayname_FirstStrike"
+				},
+				{
+					"displayName": "Magical Footwear",
+					"id": 8304,
+					"rawDescription": "perk_tooltip_MagicalFootwear",
+					"rawDisplayName": "perk_displayname_MagicalFootwear"
+				},
+				{
+					"displayName": "Minion Dematerializer",
+					"id": 8316,
+					"rawDescription": "perk_tooltip_MinionDematerializer",
+					"rawDisplayName": "perk_displayname_MinionDematerializer"
+				},
+				{
+					"displayName": "Cosmic Insight",
+					"id": 8347,
+					"rawDescription": "perk_tooltip_CosmicInsight",
+					"rawDisplayName": "perk_displayname_CosmicInsight"
+				},
+				{
+					"displayName": "Nullifying Orb",
+					"id": 8224,
+					"rawDescription": "perk_tooltip_RunicArmor",
+					"rawDisplayName": "perk_displayname_RunicArmor"
+				},
+				{
+					"displayName": "Gathering Storm",
+					"id": 8236,
+					"rawDescription": "perk_tooltip_GatheringStorm",
+					"rawDisplayName": "perk_displayname_GatheringStorm"
+				}
+			],
+			"keystone": {
+				"displayName": "First Strike",
+				"id": 8369,
+				"rawDescription": "perk_tooltip_FirstStrike",
+				"rawDisplayName": "perk_displayname_FirstStrike"
+			},
+			"primaryRuneTree": {
+				"displayName": "Inspiration",
+				"id": 8300,
+				"rawDescription": "perkstyle_tooltip_7203",
+				"rawDisplayName": "perkstyle_displayname_7203"
+			},
+			"secondaryRuneTree": {
+				"displayName": "Sorcery",
+				"id": 8200,
+				"rawDescription": "perkstyle_tooltip_7202",
+				"rawDisplayName": "perkstyle_displayname_7202"
+			},
+			"statRunes": [
+				{
+					"id": 5008,
+					"rawDescription": "perk_tooltip_StatModAdaptive"
+				},
+				{
+					"id": 5008,
+					"rawDescription": "perk_tooltip_StatModAdaptive"
+				},
+				{
+					"id": 5002,
+					"rawDescription": "perk_tooltip_StatModArmor"
+				}
+			]
+		},
+		"level": 8,
+		"summonerName": "freedomcuautli",
+		"teamRelativeColors": true
+	},
+	"allPlayers": [
+		{
+			"championName": "Corki",
+			"isBot": false,
+			"isDead": false,
+			"items": [
+				{
+					"canUse": true,
+					"consumable": true,
+					"count": 3,
+					"displayName": "Minion Dematerializer",
+					"itemID": 2403,
+					"price": 0,
+					"rawDescription": "GeneratedTip_Item_2403_Description",
+					"rawDisplayName": "Item_2403_Name",
+					"slot": 0
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Caulfield's Warhammer",
+					"itemID": 3133,
+					"price": 400,
+					"rawDescription": "GeneratedTip_Item_3133_Description",
+					"rawDisplayName": "Item_3133_Name",
+					"slot": 1
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Cloak of Agility",
+					"itemID": 1018,
+					"price": 600,
+					"rawDescription": "GeneratedTip_Item_1018_Description",
+					"rawDisplayName": "Item_1018_Name",
+					"slot": 2
+				},
+				{
+					"canUse": true,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Stealth Ward",
+					"itemID": 3340,
+					"price": 0,
+					"rawDescription": "GeneratedTip_Item_3340_Description",
+					"rawDisplayName": "Item_3340_Name",
+					"slot": 6
+				}
+			],
+			"level": 8,
+			"position": "",
+			"rawChampionName": "game_character_displayname_Corki",
+			"respawnTimer": 0.0,
+			"runes": {
+				"keystone": {
+					"displayName": "First Strike",
+					"id": 8369,
+					"rawDescription": "perk_tooltip_FirstStrike",
+					"rawDisplayName": "perk_displayname_FirstStrike"
+				},
+				"primaryRuneTree": {
+					"displayName": "Inspiration",
+					"id": 8300,
+					"rawDescription": "perkstyle_tooltip_7203",
+					"rawDisplayName": "perkstyle_displayname_7203"
+				},
+				"secondaryRuneTree": {
+					"displayName": "Sorcery",
+					"id": 8200,
+					"rawDescription": "perkstyle_tooltip_7202",
+					"rawDisplayName": "perkstyle_displayname_7202"
+				}
+			},
+			"scores": {
+				"assists": 0,
+				"creepScore": 20,
+				"deaths": 0,
+				"kills": 1,
+				"wardScore": 0.0
+			},
+			"skinID": 0,
+			"summonerName": "freedomcuautli",
+			"summonerSpells": {
+				"summonerSpellOne": {
+					"displayName": "Flash",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+				},
+				"summonerSpellTwo": {
+					"displayName": "Unleashed Teleport",
+					"rawDescription": "GeneratedTip_SummonerSpell_S12_SummonerTeleportUpgrade_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_S12_SummonerTeleportUpgrade_DisplayName"
+				}
+			},
+			"team": "ORDER"
+		},
+		{
+			"championName": "Karthus",
+			"isBot": true,
+			"isDead": false,
+			"items": [
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Tear of the Goddess",
+					"itemID": 3070,
+					"price": 400,
+					"rawDescription": "GeneratedTip_Item_3070_Description",
+					"rawDisplayName": "Item_3070_Name",
+					"slot": 0
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Lost Chapter",
+					"itemID": 3802,
+					"price": 315,
+					"rawDescription": "GeneratedTip_Item_3802_Description",
+					"rawDisplayName": "Item_3802_Name",
+					"slot": 1
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Boots",
+					"itemID": 1001,
+					"price": 300,
+					"rawDescription": "GeneratedTip_Item_1001_Description",
+					"rawDisplayName": "Item_1001_Name",
+					"slot": 3
+				},
+				{
+					"canUse": true,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Stealth Ward",
+					"itemID": 3340,
+					"price": 0,
+					"rawDescription": "GeneratedTip_Item_3340_Description",
+					"rawDisplayName": "Item_3340_Name",
+					"slot": 6
+				}
+			],
+			"level": 7,
+			"position": "",
+			"rawChampionName": "game_character_displayname_Karthus",
+			"respawnTimer": 0.0,
+			"runes": {
+				"keystone": {
+					"displayName": "Arcane Comet",
+					"id": 8229,
+					"rawDescription": "perk_tooltip_ArcaneComet",
+					"rawDisplayName": "perk_displayname_ArcaneComet"
+				},
+				"primaryRuneTree": {
+					"displayName": "Sorcery",
+					"id": 8200,
+					"rawDescription": "perkstyle_tooltip_7202",
+					"rawDisplayName": "perkstyle_displayname_7202"
+				},
+				"secondaryRuneTree": {
+					"displayName": "Domination",
+					"id": 8100,
+					"rawDescription": "perkstyle_tooltip_7200",
+					"rawDisplayName": "perkstyle_displayname_7200"
+				}
+			},
+			"scores": {
+				"assists": 0,
+				"creepScore": 30,
+				"deaths": 1,
+				"kills": 0,
+				"wardScore": 0.0
+			},
+			"skinID": 0,
+			"summonerName": "Karthus Bot",
+			"summonerSpells": {
+				"summonerSpellOne": {
+					"displayName": "Ghost",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerHaste_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHaste_DisplayName"
+				},
+				"summonerSpellTwo": {
+					"displayName": "Heal",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerHeal_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHeal_DisplayName"
+				}
+			},
+			"team": "CHAOS"
+		}
+	],
+	"events": {
+		"Events": [
+			{
+				"EventID": 0,
+				"EventName": "GameStart",
+				"EventTime": 0.034425798803567889
+			},
+			{
+				"EventID": 1,
+				"EventName": "MinionsSpawning",
+				"EventTime": 65.03832244873047
+			},
+			{
+				"Assisters": [],
+				"EventID": 2,
+				"EventName": "ChampionKill",
+				"EventTime": 546.9242553710938,
+				"KillerName": "freedomcuautli",
+				"VictimName": "Karthus Bot"
+			},
+			{
+				"EventID": 3,
+				"EventName": "FirstBlood",
+				"EventTime": 546.9242553710938,
+				"Recipient": "freedomcuautli"
+			},
+			{
+				"Acer": "freedomcuautli",
+				"AcingTeam": "ORDER",
+				"EventID": 4,
+				"EventName": "Ace",
+				"EventTime": 546.9242553710938
+			}
+		]
+	},
+	"gameData": {
+		"gameMode": "PRACTICETOOL",
+		"gameTime": 602.8247680664063,
+		"mapName": "Map11",
+		"mapNumber": 11,
+		"mapTerrain": "Default"
+	}
+}
